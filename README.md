@@ -1,1 +1,3 @@
 # tunzloki
+Larning
+ontinous
